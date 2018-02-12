@@ -9,10 +9,10 @@ The basic idea is to save 1p on Jan 1st, 2p on Jan 2nd and so on until you save 
 This wasn't a long term solution so I created a simple python script that would tell me three things: how much the total should be, how much should be saved on that day, and the simplest way to make in the smallest number of coins.
 
 
-##Languages
+## Languages
 Python
 
-##Example
+## Example
 
 An example of the output:
 
