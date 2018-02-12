@@ -10,7 +10,7 @@ This wasn't a long term solution so I decided to create a simple python script t
 
 An example of the output would be:
 
-'''
+```
 Today's date is Feb 12 2018 which means it is day 43 of this year
 You should add £0.43 to your savings today, meaning your total should be £9.46
 
@@ -20,4 +20,4 @@ The easiest way to make this is to use the following coins:
 20p x2
 5p x1
 1p x1
-'''
+```
