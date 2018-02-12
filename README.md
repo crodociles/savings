@@ -6,9 +6,15 @@ This is a basic command line script I came up with to help me when I was struggl
 
 The basic idea is to save 1p on Jan 1st, 2p on Jan 2nd and so on until you save £3.64 on December 31st (by which time you should have saved £667.95). When I began I was doing it mentally and struggling to remember if I had done it the day before so was having to add all the previous days and check against the total I had already.
 
-This wasn't a long term solution so I decided to create a simple python script that would tell me three things: how much the total should be, how much should be saved on that day, and the simplest way to make in the smallest number of coins.
+This wasn't a long term solution so I created a simple python script that would tell me three things: how much the total should be, how much should be saved on that day, and the simplest way to make in the smallest number of coins.
 
-An example of the output would be:
+
+##Languages
+Python
+
+##Example
+
+An example of the output:
 
 ```
 Today's date is Feb 12 2018 which means it is day 43 of this year
