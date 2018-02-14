@@ -18,9 +18,9 @@ def coins():
 	#declare vars
 	coinsStr = ""
 	coinsTotal = total + dayNum
-	coinsList = [200, 100, 50, 20, 10, 5, 2, 1]
-	coinNames = ["£2", "£1", "50p", "20p", "10p", "5p", "2p", "1p"]
-	coinNums = [0,0,0,0,0,0,0,0]
+	coinsList = [2000, 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1]
+	coinNames = ["£20", "£10", "£5","£2", "£1", "50p", "20p", "10p", "5p", "2p", "1p"]
+	coinNums = [0,0,0,0,0,0,0,0,0,0,0]
 	
 	#for all coins
 	for x in range(0,len(coinsList)):
